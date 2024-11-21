@@ -2,6 +2,6 @@
 
 | Name              | UID         |
 |--------------     |------------ |
-| Kunal Bhatia      | 20213000    |
+| Kunal Bhatia      | 2021300010  |
 | Dewyani Deshmukh  | 2021300024  |
-| Siddesh Kirdat    | 202130000   |
+| Siddhesh Kirdat   | 2021300064   |
